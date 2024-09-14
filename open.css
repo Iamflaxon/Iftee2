@@ -1,0 +1,129 @@
+.box{box-shadow: 2px 0px 3px 0px gold;
+	
+}
+body{
+	background: url(BB.jpg);
+}
+.burger{
+	font-size: 20px;
+
+}
+.navbar{
+	height: 100px;
+}
+.logo{
+	width: 20px;
+}
+.H{
+	font-size: 20px;
+	color: black;
+	
+
+}
+.A{
+	color: black;
+	text-decoration: none;
+	
+}
+
+.H{
+
+}
+
+.gray{
+	background-color: #778899;
+	
+}
+.Gray{
+	background-color: #778899;
+}
+
+.H{
+
+}
+
+
+
+
+.H:hover{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+}
+
+.A{
+
+}
+
+.A:hover{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+
+}
+.Info{
+	color: ghostwhite;
+	font-size: 15px;
+}
+h6{
+	color: ghostwhite;
+}
+.c{
+	color: black;
+}
+.c:hover{
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	padding: 6px;
+}
+.F{
+	border: 5px black outset;
+}
+
+.you{
+	color: red;
+
+}
+.face{
+	color: blue;
+}
+.lo{
+	color: yellow;
+}
+.ca{
+	color: limegreen;
+}
+.con{
+	color: yellow;
+}
+.ou{
+	color: gold;
+}
+.i1{
+	width: 80px;
+}
+
+
+.h{
+	font-size: 30px;
+	color: orange;
+}
+
+
+
+
+
+@media only screen and ( max-width:450px ){
+
+	.h{
+		font-size: 20px;
+		
+	}
+
+}
+
+
+
+
